@@ -5,3 +5,4 @@
 
 * Day 1 : [Single Number](src/main/java/io/theforloop/leetcode30daychallenge/day1/SingleNumber.java)
 * Day 2 : [Happy Number](src/main/java/io/theforloop/leetcode30daychallenge/day2/HappyNumber.java)
+* Day 4 : [Move Zeros](src/main/java/io/theforloop/leetcode30daychallenge/day4/MoveZeroes.java)
