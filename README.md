@@ -8,4 +8,6 @@
 * Day 4 : [Move Zeros](src/main/java/io/theforloop/leetcode30daychallenge/day4/MoveZeroes.java)
 * Day 5 : [Best Time to Buy and Sell Stock II](src/main/java/io/theforloop/leetcode30daychallenge/day5/BuySellStock2.java)
 * Day 6 : [Group Anagrams](src/main/java/io/theforloop/leetcode30daychallenge/day6/GroupAnagrams.java)
+* Day 7 : [Counting Elements](src/main/java/io/theforloop/leetcode30daychallenge/day7/CountingElements.java)
+
 
