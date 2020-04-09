@@ -10,5 +10,6 @@
 * Day 6 : [Group Anagrams](src/main/java/io/theforloop/leetcode30daychallenge/day6/GroupAnagrams.java)
 * Day 7 : [Counting Elements](src/main/java/io/theforloop/leetcode30daychallenge/day7/CountingElements.java)
 * Day 8 : [Middle of the Linked List](src/main/java/io/theforloop/leetcode30daychallenge/day8/MiddleOfTheLinkedList.java)
+* Day 9 : [Backspace String Compare](src/main/java/io/theforloop/leetcode30daychallenge/day9/BackspaceStringCompare.java)
 
 
