@@ -9,12 +9,9 @@ package io.theforloop.leetcode30daychallenge.day3;
  * */
 public class MaximumSubArray {
     public int maxSubArray(int[] nums) {
-        int len = nums.length;
         int max = Integer.MIN_VALUE;
         int tempMax = 0;
-
-        for (int val:nums)
-        {
+        for (int val:nums) {
             tempMax = Math.max(tempMax + val,val);
             max = Math.max(tempMax,max);
         }
