@@ -14,5 +14,6 @@
 * Day 9 : [Backspace String Compare](src/main/java/io/theforloop/leetcode30daychallenge/day9/BackspaceStringCompare.java)
 * Day 10 : [Min Stack](src/main/java/io/theforloop/leetcode30daychallenge/day10/MinStack.java)
 * Day 11 : [Diameter of Binary Tree](src/main/java/io/theforloop/leetcode30daychallenge/day11/DiameterOfBinaryTree.java)
+* Day 12 : [Last Stone Weight](src/main/java/io/theforloop/leetcode30daychallenge/day12/LastStoneWeight.java)
 
 
