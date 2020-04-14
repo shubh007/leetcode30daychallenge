@@ -15,5 +15,6 @@
 * Day 10 : [Min Stack](src/main/java/io/theforloop/leetcode30daychallenge/day10/MinStack.java)
 * Day 11 : [Diameter of Binary Tree](src/main/java/io/theforloop/leetcode30daychallenge/day11/DiameterOfBinaryTree.java)
 * Day 12 : [Last Stone Weight](src/main/java/io/theforloop/leetcode30daychallenge/day12/LastStoneWeight.java)
+* Day 13 : [Contiguous Array](src/main/java/io/theforloop/leetcode30daychallenge/day13/ContiguousArray.java)
 
 
