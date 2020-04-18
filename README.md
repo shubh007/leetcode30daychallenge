@@ -20,5 +20,6 @@
 * Day 15 : [Product of Array Except Self](src/main/java/io/theforloop/leetcode30daychallenge/day15/ProductOfArrayExceptSelf.java)
 * Day 16 : [Valid Parenthesis String](src/main/java/io/theforloop/leetcode30daychallenge/day16/ValidParenthesisString.java)
 * Day 17 : [Number of Islands](src/main/java/io/theforloop/leetcode30daychallenge/day17/NumberOfIslands.java)
+* Day 18 : [Minimum Path Sum](src/main/java/io/theforloop/leetcode30daychallenge/day18/MinimumPathSum.java)
 
 
